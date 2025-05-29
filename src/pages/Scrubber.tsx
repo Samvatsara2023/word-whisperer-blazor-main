@@ -85,7 +85,7 @@ const Scrubber = () => {
             value={missingWords}
             readOnly
             className="min-h-[200px] border-blue-200 focus:border-blue-400 w-full"
-            placeholder="Missing words will appear here in the format: \"Word\": \"**Word**\","
+            placeholder="Missing words will appear here in the format: ---- "
           />
 
           <h2 className="text-xl font-semibold mb-4 text-blue-600">Missing Words in Phonetic Dictionary</h2>
